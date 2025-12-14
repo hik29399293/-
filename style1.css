@@ -1,0 +1,12 @@
+.card img{
+    width: 15%;
+    height: auto;
+    opacity: 0,1;
+}
+.card img:hover{
+    width: 30%;
+    opacity: 1;
+}
+h1{
+    color: red;
+}
